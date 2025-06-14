@@ -1,5 +1,3 @@
-namespace nexfeed
-
 open Falco
 open Falco.Routing
 open Microsoft.AspNetCore.Builder
